@@ -528,6 +528,8 @@ h4 {
 	    flex-basis: 30%;
 }
 .advantage_list_item_img {
+	display: flex;
+	justify-content: center;
 	border-radius: 50%;
 }
 .hovicon.border {
