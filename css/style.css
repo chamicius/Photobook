@@ -684,6 +684,7 @@ div.trap::before {
 /*--------TESTIMONIAL-----*/
 .testimonial {
 	background: url(../img/testimonial_background.jpg) no-repeat center center;
+	background-size: 100%;
 	padding-bottom: 3.125rem;
 }
 .testimonial h2 {
